@@ -50,6 +50,8 @@ Step 7 : Data Transformation in Snowflake
                 Update agriculture
                 set year_group = 'Y3'
                 Where year >= 2016 and year <= 2019
+![Year Group](https://github.com/Abhisingh-code/Uploadingimages/blob/424193b06783642919f15d6bba80e58b48ccf2eb/YG_PJ3.jpg)
+                
 
         (5) Added new column 'RAINFALL_GROUPS' into the "agriculture" table (in this column depending on rainfall values categories the records in three categories)
             
@@ -72,6 +74,7 @@ Step 7 : Data Transformation in Snowflake
                 Update agriculture
                 set rainfall_groups = 'High '
                 Where rainfall >= 2800 
+![Rainfall Groups](https://github.com/Abhisingh-code/Uploadingimages/blob/424193b06783642919f15d6bba80e58b48ccf2eb/RG-PJ3.jpg)
 
 Step 8 : Load data into Power BI Desktop from Snowflake.  
 
