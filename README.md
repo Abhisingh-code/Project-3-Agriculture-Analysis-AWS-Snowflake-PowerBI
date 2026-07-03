@@ -1,4 +1,4 @@
-## Agriculture- Data Analysis Dashboard
+## Agriculture Data Analysis Dashboard
 
 Dashboard Link : https://app.powerbi.com/groups/me/reports/7a0adb39-c058-48b8-b54a-99ff9c7abc5d/c49c816013112c9abec0?redirectedFromSignup=1&experience=power-bi
 
