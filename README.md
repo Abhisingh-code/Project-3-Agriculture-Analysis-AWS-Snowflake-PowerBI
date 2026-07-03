@@ -15,11 +15,17 @@ Also since crop yield fluctuates based on climate factors, thus it is important 
 ### Steps followed
 
 Step 1 : Open AWS, create 'S3' bucket and upload the data file into the bucket.  
+
 Step 2 : Create role in AWS, under permission policies Select AmazaonS3FullAcesss, provide a role name and click create.
+
 Step 3 : open Snowflake create integration object for establishing connection between 'Snowflake' and 'Amazon S3 bucket' by updating (ARN) from AWS Roles.
+
 Step 4 : open AWS go to the created role, Under Trust relationships, Edit trust policy, update (ARN/Property Value) and (External ID/Property Value) from Snowflake and click update policy.
+
 Step 5 : open Snowflake, (create: database, schema, blank table, stage by mentioning integration object(Holds the location of the data that need to be uploaded in Snowflake), copy data into a new dataset by mentioning stage and give file format as 'csv').
+
 Step 6 : Data Profiling in Snowflake Using [Result view and chart view].
+
 Step 7 : Data Transformation in Snowflake
 
        (1) Created new table named: "agriculture" to copy the original data.
@@ -68,7 +74,9 @@ Step 7 : Data Transformation in Snowflake
                 Where rainfall >= 2800 
 
 Step 8 : Load data into Power BI Desktop from Snowflake.  
+
 Step 9 : Open power query editor & check "column distribution", "column quality" & "column profile".
+
 Step 10 : Select "column profiling based on entire dataset".
 
 Step 11 : Adding Stacked bar charts on page 1(Rainfall Analysis)
