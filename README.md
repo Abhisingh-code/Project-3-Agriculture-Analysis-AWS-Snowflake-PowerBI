@@ -143,11 +143,13 @@ Step 12 : Report published to Power BI Service.
 
 Snapshot of Dashboard (Power BI Service)
 
-(Dashboard snapshot)
+![Page 1](https://github.com/Abhisingh-code/Uploadingimages/blob/dfb957dbc9a4670a8f81c1848964fa1555524988/RA-PJ3.jpg)
 
-Report Snapshot (Power BI DESKTOP)
+![Page 2](https://github.com/Abhisingh-code/Uploadingimages/blob/dfb957dbc9a4670a8f81c1848964fa1555524988/TA-PJ3.jpg)
 
-(Report snapshot)
+![Page 3](https://github.com/Abhisingh-code/Uploadingimages/blob/dfb957dbc9a4670a8f81c1848964fa1555524988/HA-PJ3.jpg)
+
+![Page 4](https://github.com/Abhisingh-code/Uploadingimages/blob/dfb957dbc9a4670a8f81c1848964fa1555524988/YA-PJ3.jpg)
 
 
 
